@@ -11,11 +11,6 @@ What is a *growth mindset* to me? A growth mindset is all about remaining positi
 - There will be tough moments but you can always get help
 - Find motivation to **try again** after failure
 
-1. This is a numbered list
-1. This is another in the list
-1. Another one
-
-# This is a second unordered list
-2. This is another list
-2. This is still another list
-2. And again
+As Master Yoda said:
+>Do or do not
+>There is no try
