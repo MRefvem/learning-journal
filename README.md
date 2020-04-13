@@ -12,5 +12,5 @@ What is a *growth mindset* to me? A growth mindset is all about remaining positi
 - Find motivation to **try again** after failure
 
 As Master Yoda said:
->Do or do not
->There is no try
+>Do or do not...there is no try
+
