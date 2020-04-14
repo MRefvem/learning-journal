@@ -16,10 +16,6 @@ What is a *growth mindset* to me? A growth mindset is all about remaining positi
 
 ![Yoda Quote](http://bunopus.github.io/presentation-angular-2/img/yoda.png)
 
-**DIG THIS**
+### Table Of Contents
 
-**One More change**
-
-**and another change here**
-
-added some more Yoda text here for practice
+[ChoosingATextEditor](choosing-a-text-editor.md)
