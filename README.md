@@ -18,4 +18,5 @@ What is a *growth mindset* to me? A growth mindset is all about remaining positi
 
 ### Table Of Contents
 
+- [GrowthMindsetDefined](growth-mindset-defined.md)
 - [ChoosingATextEditor](choosing-a-text-editor.md)
