@@ -15,3 +15,7 @@ What is a *growth mindset* to me? A growth mindset is all about remaining positi
 >Do or do not...there is no try
 
 ![Yoda Quote](http://bunopus.github.io/presentation-angular-2/img/yoda.png)
+
+**DIG THIS**
+
+**One More change**
