@@ -11,3 +11,4 @@ Hi my name is Michael and I am a CodeFellows Student, new to programming. I come
 - [ChoosingATextEditorClass2Reading](choosing-a-text-editor.md)
 - [RevisionsAndTheCloudClass3Reading](revisions-and-the-cloud-class3.md)
 - [StructuredWebPagesWithHTMLClass4Reading](Structured-web-pages-html-reading.md)
+- [DesignWebPagesWithCSSClass5Reading](design-web-pages-with-CSS-Class5.md)
