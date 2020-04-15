@@ -3,7 +3,7 @@
 
 ### About Me
 
-Hi my name is Michael and I am a CodeFellows Student, new to programming. Here is my Learning Journal!
+Hi my name is Michael and I am a CodeFellows Student, new to programming. I come from an extensive background in Classical Piano and have two degrees, a Bachelor of Music from Western Washington University and a Master of Music from Manhattan School of Music. I am really excited to be starting a new life as a web programmer and hope you enjoy this first site. Here is my Learning Journal!
 
 ### Table Of Contents
 
