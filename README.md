@@ -9,3 +9,4 @@ Hi my name is Michael and I am a CodeFellows Student, new to programming. Here i
 
 - [GrowthMindsetDefined](growth-mindset-defined.md)
 - [ChoosingATextEditor](choosing-a-text-editor.md)
+- [StructuredWebPagesWithHTMLClass4Reading](Structured-web-pages-html-reading.md)
