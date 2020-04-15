@@ -8,5 +8,6 @@ Hi my name is Michael and I am a CodeFellows Student, new to programming. Here i
 ### Table Of Contents
 
 - [GrowthMindsetDefined](growth-mindset-defined.md)
-- [ChoosingATextEditor](choosing-a-text-editor.md)
+- [ChoosingATextEditorClass2Reading](choosing-a-text-editor.md)
+- [RevisionsAndTheCloudClass3Reading](revisions-and-the-cloud-class3.md)
 - [StructuredWebPagesWithHTMLClass4Reading](Structured-web-pages-html-reading.md)
