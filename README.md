@@ -15,3 +15,4 @@ Hi my name is Michael and I am a CodeFellows Student, new to programming. I come
 - [DynamicWebPagesWithJavaScript](Read:06-Dynamic-web-pages-with-JavaScript2.md)
 - [ComputerArchitectureandLogic](computer-architecture-and-logic.md)
 - [ProgrammingWithJavaScript](programming-with-javascript.md)
+- [OperatorsAndLoops](operators-and-loops.md)
