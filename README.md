@@ -14,3 +14,4 @@ Hi my name is Michael and I am a CodeFellows Student, new to programming. I come
 - [DesignWebPagesWithCSSClass5Reading](design-web-pages-with-CSS-Class5.md)
 - [DynamicWebPagesWithJavaScript](Read:06-Dynamic-web-pages-with-JavaScript2.md)
 - [ComputerArchitectureandLogic](computer-architecture-and-logic.md)
+- [ProgrammingWithJavaScript](programming-with-javascript.md)
